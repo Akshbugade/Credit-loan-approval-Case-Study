@@ -43,4 +43,4 @@ This case study aims to identify patterns which indicate if a client has difficu
 
 To develop your understanding of the domain, you are advised to independently research a little about risk analytics - understanding the types of variables and their significance should be enough).
 
-# EDA Summary/Conslusion in PPT.
+# We can check EDA Summary/Conslusion in PPT.
